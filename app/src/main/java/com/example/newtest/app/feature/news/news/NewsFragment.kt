@@ -14,8 +14,6 @@ import com.example.newtest.app.feature.news.NewsAdapter
 import com.example.newtest.data.model1.*
 import dagger.android.support.AndroidSupportInjection
 import kotlinx.android.synthetic.main.fragment_dashboard.*
-import kotlinx.android.synthetic.main.fragment_news.pb_loading
-import kotlinx.android.synthetic.main.fragment_news.rv_news_list
 import moxy.MvpAppCompatFragment
 import moxy.ktx.moxyPresenter
 import javax.inject.Inject

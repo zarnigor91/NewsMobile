@@ -12,10 +12,6 @@ import com.example.newtest.R
 import com.example.newtest.data.model1.Article
 import kotlinx.android.synthetic.main.item_news_list_read.view.*
 
-import kotlinx.android.synthetic.main.news_item.view.iv_news_item_image
-import kotlinx.android.synthetic.main.news_item.view.tv_title
-
-
 class NewsAdapter(context: Context, private val action: (Article) -> Unit) :
     RecyclerView.Adapter<NewsAdapter.ViewHolder>(), Filterable{
     private var myList = mutableListOf<Article>()
