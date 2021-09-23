@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewTest</string>
+    <string name="news_details_preview">this is the news title some text to test the appearance of
+        the view It\'s time for a truly uncompromising smartphone. One that was designed and
+        manufactured by technical enthusiasts - in close coordination with the future users. A
+        smartphone that perfectly combines fascinating technology, groundbreaking design and
+        breakthrough innovation. It is time for the OnePlus 3. But do not rely on our word. Convince
+        yourself.
+    </string>
+    <string name="news_title_preview">this is the news title</string>
+    <string name="title_bottom_dashboard">Breaking news</string>
+    <string name="text_source">Fool description</string>
+    <string name="text_title">Due giorni per capire dove va il futuro, grazie a una serie n\'t Care About the Electoral College - Motley Fool</string>
+    <string name="text_published">September 24 13:23</string>
+</resources>
